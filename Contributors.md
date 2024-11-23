@@ -38,6 +38,7 @@
 - Hello, I'm [Hassan R](https://github.com/hassanraha) and it's my first open source contribution.
 - Testing out CLI, aprv
 Hello I am Harshit.
+- mamo jasem is here :)
 -hi i otot. i filipino. has contributon here first time
 - Hello, I am Corey. [My GitHub](https://github.com/KCM45)
 - Hi I'm Jahnavi and I'm thrilled to embark on my open source journey!
